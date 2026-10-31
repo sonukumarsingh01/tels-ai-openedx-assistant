@@ -4,7 +4,7 @@
 
 ### An AI assistant that installs into any Open edX platform in minutes
 
-**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd (assistant user interface) &nbsp;·&nbsp; **Oct 2026 – Present**
+**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd (assistant user interface) &nbsp;·&nbsp; **Oct 2026 – Present**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
@@ -78,6 +78,6 @@ Working with the TitanEd backend team, I developed the **user interface of the A
 
 <div align="center">
 
-**Sonu Kumar** · Frontend Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
+**Sonu Kumar** · Software Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
 
 </div>
