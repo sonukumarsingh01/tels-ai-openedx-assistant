@@ -4,7 +4,7 @@
 
 ### An AI assistant that installs into any Open edX platform in minutes
 
-**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer (complete AI UI and rendering system) &nbsp;·&nbsp; **Oct 2026 – Present**
+**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd (assistant user interface) &nbsp;·&nbsp; **Oct 2026 – Present**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
@@ -29,9 +29,9 @@ course teams, but they **don't want to fork Open edX, rebuild their platform or 
 | **Inside TELS** | Included in [TELS](https://github.com/sonukumarsingh01/tels-saas-learning-platform), TitanEd's SaaS platform |
 | **As a standalone plugin** | Any organisation already running **standard Open edX** installs the plugin and gets the AI, with no migration and no core changes |
 
-## ✅ What I delivered
+## ✅ My contribution
 
-I built the **complete user interface and rendering system of the AI assistant in every Open edX app**: LMS, Studio and dashboards.
+Working with the TitanEd backend team, I developed the **user interface of the AI assistant across the Open edX apps**: LMS, Studio and dashboards.
 
 - **One assistant everywhere:** the same AI panel appears in every app, with no changes inside any app.
 - **Rich, interactive answers:** the AI's replies appear as cards, tables, forms, progress views and action buttons, not just text.
